@@ -1,3 +1,4 @@
 a=22
 b=22
-print(a+b)
+c=a+b
+print(c)
