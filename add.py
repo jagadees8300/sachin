@@ -7,5 +7,5 @@ elif b>a&b>c:
     greater=b
 else:
     greater=c
-    print("The greatest of", a, b, "and", c, "is", greatest) 
+    print("The greatest of", a, ) 
          
